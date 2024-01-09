@@ -16,7 +16,7 @@ scikit-learn              1.2.2
 
 shap                      0.41.0
 
-tensorflow                2.11.0
+pytorch                   1.13.0
 
 xgboost                   1.7.3
 
